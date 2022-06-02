@@ -5,6 +5,8 @@ const hiddenNav= document.querySelector('#hidden-nav');
 const BurgerMenu= document.querySelector('#BurgerMenu');
 const navbody= document.querySelector('#navbody');
 const navLogo= document.querySelector('#nav-logo');
+const hiddenNavBar= document.querySelector('#hidden-navbar');
+
 
 
 
@@ -38,6 +40,8 @@ backMenu.addEventListener('click',()=>{
 
 
 })
+
+
 
 // BurgerMenu.addEventListener('click',()=>{
 
